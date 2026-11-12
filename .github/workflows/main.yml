@@ -1,4 +1,4 @@
-name: Step Types
+name: Parctice
 
 on:
   workflow_dispatch:
